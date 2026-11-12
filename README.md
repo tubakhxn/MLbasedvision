@@ -1,4 +1,4 @@
-# Monocular 3D Scene Reconstruction from Dashcam Video
+# Monocular 3D Scene Reconstruction
 ## dev/creator=tubakhxn
 
 Research & Educational Purposes Only.
